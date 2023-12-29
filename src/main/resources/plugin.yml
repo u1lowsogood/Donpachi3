@@ -1,0 +1,6 @@
+name: Donpachi3
+version: '${project.version}'
+main: u1lowsogood.com.github.donpachi3.Donpachi3
+api-version: 1.20
+authors: [ u1lowisland ]
+description: Minecraft the newest  FPS Shooting game
